@@ -8,7 +8,7 @@
 import os
 
 
-KALDI_ROOT_PATH = '/home/cheeserabbit/pykaldi/tools/kaldi'
+KALDI_ROOT_PATH = '~/pykaldi/tools/kaldi'
 
 bin_path = os.path.join(KALDI_ROOT_PATH, 'src', 'bin')
 featbin_path = os.path.join(KALDI_ROOT_PATH, 'src', 'featbin')
