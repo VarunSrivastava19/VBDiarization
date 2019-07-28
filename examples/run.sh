@@ -1,1 +1,1 @@
-python diarization.py -c ../configs/vbdiar.yml -l lists/list.scp -m diarization --audio-dir /home/cheeserabbit/VBDiarization/examples/wav/fisher-english-p1 --vad-dir /home/cheeserabbit/VBDiarization/examples/vad/fisher-english-p1 --out-emb-dir /home/cheeserabbit/VBDiarization/examples/output
+python diarization.py -c ../configs/vbdiar.yml -l lists/list.scp -m diarization --audio-dir ~/VBDiarization/examples/wav/fisher-english-p1 --vad-dir ~/VBDiarization/examples/vad/fisher-english-p1 --out-emb-dir ~/VBDiarization/examples/output
